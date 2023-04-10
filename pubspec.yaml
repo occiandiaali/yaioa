@@ -31,6 +31,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_staggered_grid_view: ^0.6.2
+  flutter_bloc: ^8.1.2
+  equatable: ^2.0.5
+  http: ^0.13.5
+  intl: ^0.17.0
+  get_it: ^7.2.0
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.5.0
+  transparent_image: ^2.0.1
 
 
   # The following adds the Cupertino Icons font to your application.
