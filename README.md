@@ -5,7 +5,9 @@ Your All In One App
   
   # Android Screens  
 ![yaioa-1](https://user-images.githubusercontent.com/40769994/230786960-c312af0f-d721-4d3d-9913-dd30cbf9892f.png)
-![yaioa-chat](https://user-images.githubusercontent.com/40769994/230786962-ff1e2a6c-be0c-48af-897f-2017976804bb.png)
+![yaioa-chat](https://user-images.githubusercontent.com/40769994/230786962-ff1e2a6c-be0c-48af-897f-2017976804bb.png)  
+![yaioa-games2](https://user-images.githubusercontent.com/40769994/230971339-d892129d-2b89-4b2d-be96-6828fdc112ee.png)
+![yaioa-games](https://user-images.githubusercontent.com/40769994/230971347-817c6241-fba5-47bb-9fe6-0848fa7ff7ca.png)
 
 
 ## Getting Started
